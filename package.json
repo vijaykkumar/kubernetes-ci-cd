@@ -1,6 +1,6 @@
 {
   "name": "kubernetes-ci-cd",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "## Get started Requirements * nodejs * kubectl * virtualbox * minikube * At least 4GB of available memory, 8GB for part 5",
   "main": "start.js",
   "dependencies": {
